@@ -1,2 +1,2 @@
 # datavisualiz
-the codes from Yiyi and Weiting for assignments of Data Visualization 2024
+A GUI with self-designed 6 classical graph visualization algorithms
