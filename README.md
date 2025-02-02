@@ -3,7 +3,8 @@ A GUI with self-designed 6 classical graph visualization algorithms
 Algorithms designed together by Yiyi Zhang and Weiting Qu, packed and deployed on GUI by Yiyi Zhang
 
 
-https://github.com/user-attachments/assets/59f4d5cc-35d1-4c36-aff0-5e9404945776
+https://github.com/user-attachments/assets/aa9db0a3-6afe-4419-a500-2e6a7c1616d9
+
 
 
 # Introduction
